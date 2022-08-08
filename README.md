@@ -14,7 +14,7 @@ The reason that sensitivity value will be used to determine credit risk is becau
     ..- Precision for the high_risk: 1%
     ..- Recall: 65%
 
-![Random Oversampling]()
+![Random Oversampling](https://github.com/namin1993/Credit_Risk_Analysis/blob/acc0a5a4e3b1a47a9d778aee6ebc06416bdb7ad9/Screenshots/Random_Oversampling.png)
 
 
 * SMOTE Oversampling results: 
@@ -22,7 +22,7 @@ The reason that sensitivity value will be used to determine credit risk is becau
     ..- Precision for the high_risk: 1%
     ..- Recall: 64%
 
-![SMOTE Oversampling]()
+![SMOTE Oversampling](https://github.com/namin1993/Credit_Risk_Analysis/blob/acc0a5a4e3b1a47a9d778aee6ebc06416bdb7ad9/Screenshots/SMOTE_Oversampling.png)
 
 
 * Cluster Centroids Undersampling results:
@@ -30,7 +30,7 @@ The reason that sensitivity value will be used to determine credit risk is becau
     ..- Precision for the high_risk: 1%
     ..- Recall: 45%
 
-![Cluster Centroids Undersampling]()
+![Cluster Centroids Undersampling](https://github.com/namin1993/Credit_Risk_Analysis/blob/acc0a5a4e3b1a47a9d778aee6ebc06416bdb7ad9/Screenshots/ClusterCentroids_Undersampling.png)
 
 
 * SMOTEENN Sampling results:
@@ -38,7 +38,7 @@ The reason that sensitivity value will be used to determine credit risk is becau
     ..- Precision for the high_risk: 1%
     ..- Recall: 56%
 
-![SMOTEENN Sampling]()
+![SMOTEENN Sampling](https://github.com/namin1993/Credit_Risk_Analysis/blob/acc0a5a4e3b1a47a9d778aee6ebc06416bdb7ad9/Screenshots/SMOTEENN_Sampling.png)
 
 
 * Balanced Random Forest Sampling results:
@@ -46,14 +46,14 @@ The reason that sensitivity value will be used to determine credit risk is becau
     ..- Precision for the high_risk: 83%
     ..- Recall: 100%
 
-![Balanced Random Forest]()
+![Balanced Random Forest](https://github.com/namin1993/Credit_Risk_Analysis/blob/acc0a5a4e3b1a47a9d778aee6ebc06416bdb7ad9/Screenshots/Balanced_Random_Forest.png)
 
 * AdaBoost Sampling results:
     ..- Balanced accuracy test: 100%
     ..- Precision for the high_risk: 100%
     ..- Recall: 100%
 
-![AdaBoost]()
+![AdaBoost](https://github.com/namin1993/Credit_Risk_Analysis/blob/acc0a5a4e3b1a47a9d778aee6ebc06416bdb7ad9/Screenshots/AdaBoost.png)
 
 
 ## Results
